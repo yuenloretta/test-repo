@@ -1,0 +1,9 @@
+{
+	"name": "TestLYuen-adf",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da4ebfd8-6933-40ab-baf8-cb9c6db198e2",
+		"tenantId": "11598c17-9089-4711-80aa-e81b24d1a0c6"
+	}
+}
